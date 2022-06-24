@@ -1,0 +1,34 @@
+
+Git Cmd command ..!
+
+git config --global user.name"" = add user name to git.
+git config --global user.email"" = add user email for git.
+git config --list = user for wach email and user naem .
+git init = user  for initialize folder .
+git status = wacth all information in git .
+pwd = present working directory.
+ls = wacth directory.
+cd directoryname = go to the directory.
+git add fillname = use for fill stage.
+git add --all = use for stage all fill .
+git add . = use for stage all fill.
+git commit -m "inf" =  user for stage area to  commit area.
+git log = wacth the commited fills.
+git log --oneline = wacht the commited fills in sortly .
+git checkout commited id = use for back to folder and last folder delete .
+git checkout master = use for back to master brach .
+git diff = wacth the last changes .
+git show commite id = use for wacth the commited change any commited .
+git diff 1st id 2nd id = use for compare tow cmmited change .
+ssh-keygen -t rsa -b 4096 -c "mohammedbadsha805@gmail.com"
+git clone clonelink = use for clone git to on your pc .
+git clone clonelink newfolder name = use for git to pc and folder name new .
+git branch branchname =  use for create a branch.
+git checkout branchname = use for change the branch .
+git checkout -b branchname = use for create a new branch and go to the branch.
+git marge branchname = use for marge tow branch .
+git pull = use for update fill .
+git push = use for upload fill.
+clear = clean the screen .
+ctr+l = clean the screen.
+
