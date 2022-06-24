@@ -1,5 +1,19 @@
 
-Git push problem fix..
+--->how to push in git hub
+ 
+echo "# just-for-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohammedbadhsa/just-for-.git
+git push -u origin main
 
+git remote add origin https://github.com/mohammedbadhsa/just-for-.git
+git branch -M main
+git push -u origin main
+
+
+$$ Git push problem fix..
 git pull --rebase origin (branch_name)
 git pull --rebase origin main/master
