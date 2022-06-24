@@ -1,0 +1,5 @@
+
+Git push problem fix..
+
+git pull --rebase origin (branch_name)
+git pull --rebase origin main/master
